@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(211, 202, 202);
+    color: white;
+}
+
+
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 120px;
+    left: 49%;
+    opacity: .8;
+}
+
+form {
+    background-color: orange;
+    border: 1px solid grey;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 150px;
+    border-radius: 1rem;
+    box-shadow: 6px 6px 4px black;
+
+}
+
+input {
+    padding: 6px;
+    border: none;
+    position: relative;
+    top: 20px;
+
+}
+
+h1 {
+    position: relative;
+    top: 20px;
+}
+
+button {
+    width: 147px;
+    background-color: #18cded;
+    color: white;
+    padding: 6px;
+    cursor: pointer;
+    border: none;
+    position: relative;
+    top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(221, 6, 232);
+    position: relative;
+    top: 20px;
+}
